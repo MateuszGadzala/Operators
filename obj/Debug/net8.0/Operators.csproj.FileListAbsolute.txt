@@ -1,0 +1,28 @@
+C:\Users\mateu\source\repos\Operators\Operators\bin\Debug\net8.0\Operators.exe
+C:\Users\mateu\source\repos\Operators\Operators\bin\Debug\net8.0\Operators.deps.json
+C:\Users\mateu\source\repos\Operators\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+C:\Users\mateu\source\repos\Operators\Operators\bin\Debug\net8.0\Operators.dll
+C:\Users\mateu\source\repos\Operators\Operators\bin\Debug\net8.0\Operators.pdb
+C:\Users\mateu\source\repos\Operators\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\Operators\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Operators\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Operators\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Operators\Operators\obj\Debug\net8.0\Operators.dll
+C:\Users\mateu\source\repos\Operators\Operators\obj\Debug\net8.0\refint\Operators.dll
+C:\Users\mateu\source\repos\Operators\Operators\obj\Debug\net8.0\Operators.pdb
+C:\Users\mateu\source\repos\Operators\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+C:\Users\mateu\source\repos\Operators\Operators\obj\Debug\net8.0\ref\Operators.dll
+C:\Users\mateu\Desktop\c# projects\Operators\bin\Debug\net8.0\Operators.exe
+C:\Users\mateu\Desktop\c# projects\Operators\bin\Debug\net8.0\Operators.deps.json
+C:\Users\mateu\Desktop\c# projects\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+C:\Users\mateu\Desktop\c# projects\Operators\bin\Debug\net8.0\Operators.dll
+C:\Users\mateu\Desktop\c# projects\Operators\bin\Debug\net8.0\Operators.pdb
+C:\Users\mateu\Desktop\c# projects\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\c# projects\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\c# projects\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+C:\Users\mateu\Desktop\c# projects\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\c# projects\Operators\obj\Debug\net8.0\Operators.dll
+C:\Users\mateu\Desktop\c# projects\Operators\obj\Debug\net8.0\refint\Operators.dll
+C:\Users\mateu\Desktop\c# projects\Operators\obj\Debug\net8.0\Operators.pdb
+C:\Users\mateu\Desktop\c# projects\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+C:\Users\mateu\Desktop\c# projects\Operators\obj\Debug\net8.0\ref\Operators.dll
